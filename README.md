@@ -14,10 +14,10 @@ El trabajo simula el ciclo de vida de pruebas (STLC) completo desde el relevamie
 
 | Métrica | Cantidad |
 
-| **Total de Casos Diseñados** | [15] |
-| **Casos Exitosos (PASS)** | [11] |
-| **Casos Fallidos (FAIL)** | [4] |
-| **Bugs Reportados** | [3] |
+| **Total de Casos Diseñados** | 15 |
+| **Casos Exitosos (PASS)** | 11 |
+| **Casos Fallidos (FAIL)** | 4 |
+| **Bugs Reportados** | 3 |
 
 ## Herramientas Utilizadas
 * **Documentación y Versionado:** Markdown, Git & GitHub.
